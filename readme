@@ -1,3 +1,4 @@
 Видео
 https://youtu.be/5225ibofSMg + see screan folder
 
+to run the app on localhost, after run webCrawlerbyTGourianovaApplication, please, type in your browser: localhost:8060/views/jsp/file_load.jsp
